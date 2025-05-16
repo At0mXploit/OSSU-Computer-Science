@@ -63,7 +63,7 @@ This course will introduce you to the world of computer science and programming.
 
 Courses | Duration | Effort | Status | Notes / Projects 
 :-- | :--: | :--: | :--: | :--: |
-[Introduction to Computer Science and Programming using Python](coursepages/intro-cs/README.md) | 14 weeks | 6-10 hours/week | Not Done | 
+[Introduction to Computer Science and Programming using Python](coursepages/intro-cs/README.md) | 14 weeks | 6-10 hours/week | Doing | [Here](https://github.com/At0mXploit/OSSU-Computer-Science/tree/main/Intro/Introduction%20to%20Computer%20Science%20and%20Programming%20using%20Python) 
 
 ## Core CS
 
